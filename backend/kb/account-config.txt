@@ -1,0 +1,6 @@
+How to configure your notification settings:
+- Log in and click your avatar → Settings.
+- For Notifications -> Under “Notifications,” toggle email and push options.
+- For Profile Picture -> Tap your current profile picture.
+- Upload a new picture.
+- Click Save to apply.
